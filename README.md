@@ -1,6 +1,5 @@
-# mytoniescloud
+# mytoniescloud image
 
-# Docker Hub
 [Image can be found here](https://hub.docker.com/r/padishar24/mytoniescloud)
 
 # How to configure
