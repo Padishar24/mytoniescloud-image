@@ -1,4 +1,17 @@
-# mytoniescloud image
+# Description
+Introducing MyToniesCloud, the ultimate web app designed to revolutionize the way you manage and enjoy your children's audiobooks! With its seamless integration with NAS or RaspberryPI devices in your local network, this innovative app allows you to effortlessly upload and organize your favorite audio content onto creative tonies.
+
+Gone are the days of limited options for changing the content on your tonies. MyToniesCloud provides a user-friendly platform that empowers parents and caregivers to easily customize their children's listening experience. Whether it's swapping out beloved bedtime stories or introducing new educational podcasts, this app puts you in control of what your little ones hear.
+
+One of the standout features of MyToniesCloud is its ability to upload not only locally stored media files but also free online podcasts that offer parseable feeds. This means that you can expand your library beyond just physical audiobooks, giving you access to an endless array of captivating storytelling from around the world.
+
+Designed with young children in mind, MyToniesCloud offers a safe and intuitive interface suitable for kids aged 3 years and older. The simple navigation ensures that even little ones can independently select their preferred tonie and immerse themselves in hours of delightful audio entertainment.
+
+It's important to note that MyToniesCloud is an independent creation and has no affiliation with Boxine GmbH, the producer of tonieboxes. 
+
+Say goodbye to monotonous playback routines and hello to endless possibilities with MyToniesCloud! Experience a whole new level of convenience as you effortlessly curate personalized audio experiences for your child. Don't miss out on this game-changing app – try MyToniesCloud today!
+
+# Docker Image
 
 [Image can be found here](https://hub.docker.com/r/padishar24/mytoniescloud)
 
