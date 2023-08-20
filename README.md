@@ -16,7 +16,7 @@ Say goodbye to monotonous playback routines and hello to endless possibilities w
 [Image can be found here](https://hub.docker.com/r/padishar24/mytoniescloud)
 
 # How to configure
-Extract from my docker compose
+### Extract from my docker compose
 
     ports:
      - "8000:80"
@@ -27,6 +27,16 @@ Extract from my docker compose
 - Map external port to internal port 80
 - Map your media folder to "/audiobooks", probable "read" access is sufficient
 - Map an arbitrary folder to "/appData", r/w is neccessary. This is optional. If not provided, data is stored in "/audiobooks/.mytoniescloud". Then r/w is mandatory.
+
+### Synology UI
+On my Synology DS220+ the container configurations looks like:
+
+![image](https://github.com/Padishar24/mytoniescloud-image/assets/56674769/fc5921b4-1d03-4ecb-b93d-ed3f2271de19)
+
+I also gave user "SYSTEM" read/write access to folder 'AppData'
+
+![image](https://github.com/Padishar24/mytoniescloud-image/assets/56674769/9dfd596d-7c1a-420a-8820-1acd679d7e71)
+
 
 # How media must be stored
 Note: My media is stored in folders with following structure:
