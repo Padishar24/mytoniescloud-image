@@ -50,3 +50,10 @@ Note: My media is stored in folders with following structure:
     -  ....
 
 No other structure was tested! Please contact me, if you have any issues.
+
+# Podcasts
+Here are some examples for free german podcasts best suited for our little ones:
+- https://www.ohrenbaer.de/podcast/podcast.feed.podcast.xml
+- https://kinder.wdr.de/radio/diemaus/audio/gute-nacht-mit-der-maus/diemaus-gute-nacht-104.podcast
+- https://kinder.wdr.de/radio/diemaus/audio/diemaus-60/diemaus-60-106.podcast
+- https://feeds.br.de/anna-und-die-wilden-tiere/feed.xml
