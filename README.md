@@ -28,11 +28,38 @@ Say goodbye to monotonous playback routines and hello to endless possibilities w
 - Map your media folder to "/audiobooks", probable "read" access is sufficient
 - Map an arbitrary folder to "/appData", r/w is neccessary. This is optional. If not provided, data is stored in "/audiobooks/.mytoniescloud". Then r/w is mandatory.
 
-### Synology UI
-On my Synology DS220+ the container configurations looks like:
+### Synology Setup
+#### Install "Container Manager"
+![image](https://github.com/Padishar24/mytoniescloud-image/assets/56674769/d9c07c88-1018-476f-a01f-816753ebbe17)
+
+#### Get the "MyToniesCloud"-image
+Container Manager -> Container -> Create -> Image -> Add Image -> Search for "mytoniescloud"
+
+![image](https://github.com/Padishar24/mytoniescloud-image/assets/56674769/9eca6b23-5602-41fd-9803-71e864cc6db3)
+
+Click download and select "latest"
+
+![image](https://github.com/Padishar24/mytoniescloud-image/assets/56674769/50696f87-26ce-43f8-b971-3808fc3a4dcf)
+
+Wait until the download finishes. It's round about 610Mb
+
+#### Create new Container
+
+Name it and set "Automatischen Neustart aktivieren"
+
+![image](https://github.com/Padishar24/mytoniescloud-image/assets/56674769/a1933faa-ab81-4e7e-bf64-78b15db87135)
+
+
+#### Configure the container
+
+- Set an arbitrary external port (e.g. 8001) to the internal port 80.
+- Map the folder with your audiobooks to the internal folder "/audiobooks"
+- Map a folder for the application data to "/appData" (Note the upper and lower cases)
 
 ![image](https://github.com/Padishar24/mytoniescloud-image/assets/56674769/fc5921b4-1d03-4ecb-b93d-ed3f2271de19)
 
+
+#### Write access for "AppData"
 I also gave user "SYSTEM" read/write access to folder 'AppData'
 
 ![image](https://github.com/Padishar24/mytoniescloud-image/assets/56674769/9dfd596d-7c1a-420a-8820-1acd679d7e71)
