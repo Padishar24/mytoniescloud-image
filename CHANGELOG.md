@@ -2,6 +2,13 @@
 
 <!-- insertion marker -->
 
+## 1.8.18 - 2024-05-24
+
+### Features
+
+- Improve MPD integration for playing albums on MPD server
+
+
 ## 1.7.17 - 2024-05-22
 
 ### Features
