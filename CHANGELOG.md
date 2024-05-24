@@ -2,6 +2,13 @@
 
 <!-- insertion marker -->
 
+## 1.8.19 - 2024-05-24
+
+### Bug Fixes
+
+- Fix typo in MPD URL formatting
+
+
 ## 1.8.18 - 2024-05-24
 
 ### Features
