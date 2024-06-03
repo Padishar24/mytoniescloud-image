@@ -2,6 +2,19 @@
 
 <!-- insertion marker -->
 
+## 1.9.21 - 2024-06-03
+
+### Features
+
+- Display remaining time in progress bar
+- show spinner after reordering tracks until transcoding is finished
+- Show spinner while transcoding new content
+
+### Code Refactoring
+
+- locate 'audiobooks' folder in debug
+
+
 ## 1.8.20 - 2024-05-24
 
 ### Code Refactoring
