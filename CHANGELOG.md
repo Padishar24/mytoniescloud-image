@@ -2,6 +2,13 @@
 
 <!-- insertion marker -->
 
+## 2.0.2-beta - 2024-06-16
+
+### Bug Fixes
+
+- cover URI
+
+
 ## 2.0.1-beta - 2024-06-16
 
 ### Bug Fixes
