@@ -2,6 +2,13 @@
 
 <!-- insertion marker -->
 
+## 1.10.24 - 2025-02-02
+
+### Bug Fixes
+
+- Enhance error handling and ensure artist refresh in media library operations
+
+
 ## 1.10.22 - 2024-11-27
 
 ### Bug Fixes
