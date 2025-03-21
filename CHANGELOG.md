@@ -2,6 +2,13 @@
 
 <!-- insertion marker -->
 
+## 1.11.25 - 2025-03-21
+
+### Features
+
+- Implement audiobook splitting for tracks exceeding 90 minutes and update version to 1.11.25
+
+
 ## 1.10.24 - 2025-02-02
 
 ### Bug Fixes
