@@ -2,6 +2,17 @@
 
 <!-- insertion marker -->
 
+## 1.12.27 - 2025-05-16
+
+### Features
+
+- Enhance audiobooks sorting by implementing natural sort key for titles
+
+### Bug Fixes
+
+- Update tonie rendering logic to handle API access errors gracefully
+
+
 ## 1.11.25 - 2025-03-21
 
 ### Features
